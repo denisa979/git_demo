@@ -1,6 +1,11 @@
+
+second
+git modify
+
 - thing to do 
 - practice java
 -practice git
 -do things on github
 -second practice
 -adding second time
+

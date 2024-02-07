@@ -1,2 +1,2 @@
-practice git
-demo1.file
+this is demo 1
+i am practicing git 
